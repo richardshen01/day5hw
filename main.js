@@ -70,8 +70,3 @@ function updateTable(table, list) {
       task.addTask(table);
     }
   }
-
-function removeSelf(el){
-
-}
-  
